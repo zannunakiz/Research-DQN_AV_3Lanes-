@@ -1,0 +1,19 @@
+kmh40:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,166,232,0.000,9.260,9.260,13682,816,2474,85.0,0,17.722(22.153%)(0.000m),21.000(21.000%)(0.107m),25.000(25.000%)(0.536m),30.000(30.000%)(1.071m),20.000(25.000%)(0.000m),12.479(31.197%)(0.266m),16.232(40.579%)(0.668m),0.000,1782.316
+
+kmh45:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,166,232,0.000,9.260,9.260,13682,816,2474,85.0,0,17.722(22.153%)(0.000m),21.000(21.000%)(0.107m),25.000(25.000%)(0.536m),30.000(30.000%)(1.071m),20.000(25.000%)(0.000m),12.479(31.197%)(0.266m),16.232(40.579%)(0.668m),0.000,1782.316
+
+kmh55:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,288,174,0.000,49.210,49.210,33460,2022,6148,100.0,1,20.882(26.103%)(0.095m),37.000(37.000%)(1.821m),42.000(42.000%)(2.357m),37.000(37.000%)(1.821m),18.589(23.237%)(0.000m),14.784(36.960%)(0.513m),13.053(32.631%)(0.327m),344.491,7659.529
+
+kmh60:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,202,37,0.000,51.320,51.320,24083,1442,4569,90.0,0,24.630(30.788%)(0.496m),39.000(39.000%)(2.036m),56.000(56.000%)(3.857m),39.552(39.552%)(2.095m),18.557(23.197%)(0.000m),17.424(43.560%)(0.795m),13.030(32.574%)(0.325m),620.468,4883.220
+
+kmh65:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,260,193,0.000,67.180,67.180,36148,2175,6943,95.0,0,15.957(19.946%)(0.000m),34.444(34.444%)(1.548m),63.000(63.000%)(4.607m),39.657(39.657%)(2.106m),18.611(23.263%)(0.000m),11.177(27.942%)(0.126m),13.068(32.670%)(0.329m),1737.340,8204.973

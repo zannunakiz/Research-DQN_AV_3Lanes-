@@ -1,0 +1,2 @@
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,491,56,0.000,69.810,69.810,38451,2324,7370,100.0,1,24.057(30.071%)(0.435m),46.000(46.000%)(2.786m),51.000(51.000%)(3.321m),40.000(40.000%)(2.143m),21.119(26.399%)(0.120m),16.984(42.461%)(0.748m),14.866(37.165%)(0.521m),649.345,5911.272

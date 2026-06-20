@@ -1,0 +1,20 @@
+kmh65:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,174,137,0.000,74.140,74.140,31732,1913,6160,90.0,0,22.853(28.566%)(0.306m),48.051(48.051%)(3.005m),62.000(62.000%)(4.500m),40.845(40.845%)(2.233m),19.323(24.153%)(0.000m),16.113(40.284%)(0.655m),10.000(25.000%)(0.000m),1539.117,6917.668
+
+kmh60:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,491,56,0.000,69.810,69.810,38451,2324,7370,100.0,1,24.057(30.071%)(0.435m),46.000(46.000%)(2.786m),51.000(51.000%)(3.321m),40.000(40.000%)(2.143m),21.119(26.399%)(0.120m),16.984(42.461%)(0.748m),14.866(37.165%)(0.521m),649.345,5911.272
+
+kmh55:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,149,82,0.000,53.350,53.350,27753,1668,5310,100.0,1,21.671(27.089%)(0.179m),38.000(38.000%)(1.929m),49.000(49.000%)(3.107m),36.000(36.000%)(1.714m),22.581(28.227%)(0.277m),15.261(38.153%)(0.564m),15.917(39.793%)(0.634m),283.476,3585.993
+
+kmh45:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,298,196,0.000,20.840,20.840,18228,1087,3465,100.0,1,21.000(26.250%)(0.107m),35.000(35.000%)(1.607m),46.000(46.000%)(2.786m),34.000(34.000%)(1.500m),18.536(23.170%)(0.000m),15.165(37.911%)(0.553m),13.014(32.536%)(0.323m),56.485,1663.489
+
+
+kmh40:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,11,10,0.000,-0.790,-0.790,1814,103,291,20.0,0,22.000(27.500%)(0.214m),31.000(31.000%)(1.179m),46.000(46.000%)(2.786m),71.037(71.037%)(5.468m),42.167(52.709%)(2.375m),40.000(100.000%)(3.214m),40.000(100.000%)(3.214m),0.000,1688.917

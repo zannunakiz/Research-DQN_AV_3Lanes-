@@ -1,0 +1,21 @@
+TRAINING
+python main_train.py --episodes 3000
+
+RUN MODEL ON TRAINING OBSTACLES (Evaluate)
+python main_visualize.py --model ALL_MODELS/MT/model_3000_D3QN.pth --allstage --episodes 1000 --d3qn 
+
+RUN MODEL ON 42 TESTER STAGES (Testing)
+python main_visualize.py --model ALL_MODELS/MT/model_3000_D3QN.pth --allstage --episodes 1000 --d3qn --tester 
+
+RUN MODEL ON CUSTOM CONTROLLED STAGE (add any obstacles while running)
+python main_visualize.py --model ALL_MODELS/MT/model_3000_D3QN.pth --allstage --episodes 1000 --d3qn  --experiment
+
+RUN MODEL ON RANDOM 50-SET OBSTACLE STAGE
+python main_visualize.py --model ALL_MODELS/MT/model_3000_D3QN.pth --allstage --episodes 1000 --d3qn  --random
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+NOTE: 
+- To change/edit obstacles, edit from main_constant.py
+- When loading a model using "--model" tag, for DDQN and D3QN models use extra tags like "--DDQN" "--D3QN" for it to work properly. 

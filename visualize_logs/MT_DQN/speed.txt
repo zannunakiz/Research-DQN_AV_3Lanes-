@@ -1,0 +1,19 @@
+kmh 40:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,24,11,0.000,-0.930,-0.930,1905,109,302,25.0,0,21.000(26.250%)(0.107m),22.000(22.000%)(0.214m),31.000(31.000%)(1.179m),77.921(77.921%)(6.206m),47.131(58.914%)(2.907m),40.000(100.000%)(3.214m),40.000(100.000%)(3.214m),0.000,1614.195
+
+kmh 45:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,17,14,0.000,-0.170,-0.170,2177,125,357,25.0,0,22.000(27.500%)(0.214m),28.000(28.000%)(0.857m),42.000(42.000%)(2.357m),71.813(71.813%)(5.551m),41.797(52.246%)(2.335m),40.000(100.000%)(3.214m),39.317(98.292%)(3.141m),0.000,2142.588
+
+kmh 55:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,203,158,0.000,30.080,30.080,22202,1338,4220,95.0,0,8.027(10.033%)(0.000m),9.739(9.739%)(0.000m),12.520(12.520%)(0.000m),19.371(19.371%)(0.000m),16.947(21.184%)(0.000m),15.298(38.245%)(0.568m),11.880(29.699%)(0.201m),306.466,3684.657
+
+kmh 60:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,559,24,0.000,70.830,70.830,40216,2426,7634,100.0,1,16.973(21.216%)(0.000m),35.443(35.443%)(1.655m),51.000(51.000%)(3.321m),43.000(43.000%)(2.464m),21.647(27.059%)(0.177m),11.947(29.867%)(0.209m),15.244(38.111%)(0.562m),731.769,8216.798
+
+kmh 65:
+episode,close distance,near_miss,MSE,Reward,Avg reward,time,timeframe,steps,progress_pct,reached_finish,min_R2,min_R1,min_F,min_L1,min_L2,min_SR,min_SL,min_ttc,avg_ttc
+1,214,194,0.000,45.580,45.580,25644,1543,4934,85.0,0,19.000(23.750%)(0.000m),31.000(31.000%)(1.179m),57.000(57.000%)(3.964m),29.000(29.000%)(0.964m),14.000(17.500%)(0.000m),14.000(35.000%)(0.429m),16.098(40.245%)(0.653m),1561.013,9898.119
