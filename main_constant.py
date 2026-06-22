@@ -242,7 +242,7 @@ visualize_logs_sec = 2
 # - 50  = Extremely constrained
 # =============================================================================
 OBSTACLES = [
-    # FULL TRAIN
+    # FULL MAIN TRAIN
     [
         {"lane": 1, "y": 200},
         {"lane": 0, "y": 350},
@@ -323,7 +323,36 @@ OBSTACLES = [
     #     {"lane": 1, "y": 1180},
     #     {"lane": 2, "y": 1180},
     # ],
-    # CUSTOM TRAIN
+    # HP TUNING (Buffer size)
+    # [
+    #     {"lane": 1, "y": 200},
+    #     {"lane": 0, "y": 330},
+    #     {"lane": 2, "y": 330},  #
+    #     {"lane": 1, "y": 480},
+    #     {"lane": 2, "y": 480},
+    #     {"lane": 0, "y": 610},
+    #     {"lane": 2, "y": 610},  #
+    #     {"lane": 1, "y": 760},
+    #     {"lane": 0, "y": 760},
+    #     {"lane": 1, "y": 890},
+    #     {"lane": 2, "y": 890},  #
+    #     {"lane": 1, "y": 1020},
+    #     {"lane": 0, "y": 1020},
+    #     {"lane": 1, "y": 1150},
+    #     {"lane": 2, "y": 1150},
+    #     {"lane": 0, "y": 1300},  #
+    # ],
+    # HP TUNING (Batch size, Learning rate, and Gamma)
+    # [
+    #     {"lane": 1, "y": 250},  #
+    #     {"lane": 0, "y": 380},
+    #     {"lane": 2, "y": 380},  #
+    #     {"lane": 0, "y": 510},
+    #     {"lane": 1, "y": 510},  #
+    #     {"lane": 2, "y": 640},
+    #     {"lane": 1, "y": 640},  #
+    # ],
+    # HP TUNING (Training method learning: Curriculum vs Direct)
     # [
     #     {"lane": 1, "y": 250},  #
     # ],
@@ -348,7 +377,7 @@ OBSTACLES = [
     #     {"lane": 2, "y": 640},
     #     {"lane": 1, "y": 640},  #
     # ],
-    # BLIND TRAIN
+    # Unseen Robustness training
     # [
     #     {"lane": 1, "y": 200},  #
     #     {"lane": 2, "y": 350},  #
