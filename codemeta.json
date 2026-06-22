@@ -1,0 +1,111 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Safety-Aware Deep Q-Network Variants for Lightweight Sensor-Based Collision Avoidance in Autonomous Vehicles",
+  "description": "Software and experiment code for comparing DQN, Double DQN, and Dueling DQN variants for lightweight sensor-based autonomous vehicle collision avoidance using seven distance sensors and normalized vehicle speed as state inputs.",
+  "version": "1.0.0",
+  "dateCreated": "2026-06-22",
+  "datePublished": "2026-06-22",
+  "codeRepository": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY",
+  "issueTracker": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/issues",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "runtimePlatform": [
+    "Python",
+    "Gymnasium",
+    "PyTorch"
+  ],
+  "applicationCategory": [
+    "Research software",
+    "Autonomous vehicles",
+    "Deep reinforcement learning"
+  ],
+  "keywords": [
+    "autonomous vehicles",
+    "deep reinforcement learning",
+    "collision avoidance",
+    "Deep Q-Network",
+    "Double DQN",
+    "Dueling DQN",
+    "reward shaping",
+    "sensor-based navigation"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Dhidik",
+      "familyName": "Prastiyanto",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      },
+      "@id": "https://orcid.org/0000-0002-8782-3039"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Richky",
+      "familyName": "Abednego",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      },
+      "@id": "https://orcid.org/0009-0003-0819-1825"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Muhamad Kurniawan",
+      "familyName": "Fauzi",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      },
+      "@id": "https://orcid.org/0009-0000-0411-2753"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Budi",
+      "familyName": "Sunarko",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      },
+      "@id": "https://orcid.org/0000-0002-3456-8521"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Khoirudin",
+      "familyName": "Fathoni",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      },
+      "@id": "https://orcid.org/0009-0003-3138-6604"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Anton Satrio",
+      "familyName": "Prabuwono",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universiti Teknologi PETRONAS"
+      },
+      "@id": "https://orcid.org/0000-0003-3337-6605"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Meida Andini",
+      "familyName": "Rahmawati",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Semarang State University"
+      }
+    }
+  ],
+  "maintainer": {
+    "@type": "Person",
+    "givenName": "Muhamad Kurniawan",
+    "familyName": "Fauzi"
+  },
+  "isAccessibleForFree": true
+}

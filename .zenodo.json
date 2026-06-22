@@ -1,0 +1,66 @@
+{
+  "title": "Safety-Aware Deep Q-Network Variants for Lightweight Sensor-Based Collision Avoidance in Autonomous Vehicles",
+  "upload_type": "software",
+  "description": "Software and experiment code for comparing DQN, Double DQN, and Dueling DQN variants for lightweight sensor-based autonomous vehicle collision avoidance in a structured three-lane road environment. The framework uses seven distance sensors and normalized vehicle speed as state inputs, applies safety-aware reward shaping, and evaluates robustness under unseen obstacle layouts, sensor noise, obstacle density variations, and obstacle speed variations.",
+  "creators": [
+    {
+      "name": "Prastiyanto, Dhidik",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University",
+      "orcid": "0000-0002-8782-3039"
+    },
+    {
+      "name": "Abednego, Richky",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University",
+      "orcid": "0009-0003-0819-1825"
+    },
+    {
+      "name": "Fauzi, Muhamad Kurniawan",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University",
+      "orcid": "0009-0000-0411-2753"
+    },
+    {
+      "name": "Sunarko, Budi",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University",
+      "orcid": "0000-0002-3456-8521"
+    },
+    {
+      "name": "Fathoni, Khoirudin",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University",
+      "orcid": "0009-0003-3138-6604"
+    },
+    {
+      "name": "Prabuwono, Anton Satrio",
+      "affiliation": "Universiti Teknologi PETRONAS",
+      "orcid": "0000-0003-3337-6605"
+    },
+    {
+      "name": "Rahmawati, Meida Andini",
+      "affiliation": "Department of Electrical Engineering, Faculty of Engineering, Semarang State University"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-06-22",
+  "access_right": "open",
+  "keywords": [
+    "autonomous vehicles",
+    "deep reinforcement learning",
+    "collision avoidance",
+    "Deep Q-Network",
+    "DQN",
+    "Double DQN",
+    "DDQN",
+    "Dueling DQN",
+    "D3QN",
+    "reward shaping",
+    "sensor-based navigation",
+    "lightweight autonomous navigation"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
