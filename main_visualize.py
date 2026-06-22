@@ -2448,6 +2448,20 @@ def run_visualization(
                         print(f"Warning: could not advance stage: {e}")
                     else:
                         print(f"[OK] ADVANCED TO STAGE {current_stage + 1}/{num_stages}")
+                elif (
+                    tester
+                    and current_stage < (num_stages - 1)
+                    and not info.get("reached_finish")
+                ):
+                    current_stage += 1
+                    consecutive_success = 0
+                    try:
+                        env.set_curriculum_stage(current_stage)
+                        renderer.env = env
+                    except Exception as e:
+                        print(f"Warning: could not advance stage: {e}")
+                    else:
+                        print(f"[OK] ADVANCED TO STAGE {current_stage + 1}/{num_stages}")
 
 
             end_pause_ms = int(max(50, 1000 / max(1, renderer.get_steps_per_frame())))
